@@ -1,5 +1,6 @@
 # HiCursorWords MOD #
 
+Just a fork version after ihacklog's repository closure.
 ----------
 
 ## About ##
